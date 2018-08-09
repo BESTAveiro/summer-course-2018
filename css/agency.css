@@ -269,7 +269,7 @@ header.masthead {
     cursor: pointer;
     background-color: transparent; }
     .portfolio-modal .close-modal:hover {
-      opacity: 0.3; }
+      opacity: 0.005; }
     .portfolio-modal .close-modal .lr {
       /* Safari and Chrome */
       z-index: 1051;
